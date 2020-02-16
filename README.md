@@ -1,1 +1,1 @@
-# rsschool-cv
+https://imafusail.github.io/rsschool-cv/cv
