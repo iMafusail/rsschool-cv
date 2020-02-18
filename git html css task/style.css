@@ -1,0 +1,22 @@
+.header {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 40px 0;
+  background-color: #212349;
+}
+
+body {
+  margin: auto;
+  width: 1024px;
+}
+  
+li {
+  list-style-type: circle;
+}
+
+.page-footer {
+  padding: 40px 0;
+  background-color: #212349;
+}
