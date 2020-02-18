@@ -1,0 +1,11 @@
+#Hello. My name is 
+1. Ivan Michurin.
+2. cqpera1@mail.ru
+3. After working as an M.D. in Russia, i came to realisation that it is not what i want to do for the rest of my life. I want my life to be connected with tech, programming. You dont have to think alot when working as an M.D. Situation when you really have to do that are rare. Mostly, you jst choose from options that you learned before, from some patterns. That's not for me. I like to think. And, as a programmer, i know i will. I am learning from scratch, and learning alot of stuff at once. A bit overwhelming, but i know that's only in the begginng, first year or so. My goal is to touch programming world and decide what i like, from the inside, then to start working in that direction.
+4. JavaScript, HTML, CSS. Coding in VisualStudio Code. Nothing big right now.
+5. [This is pretty much all code i have](https://www.codewars.com/users/iMafusail)
+6. [My first project](https://imafusail.github.io/hello-world/)
+7. [Hexlet](https://ru.hexlet.io/courses/programming-basics)
+[HTML Academy](https://htmlacademy.ru/profile/id1366197)
+[Codewars](https://www.codewars.com/users/iMafusail)
+8. Personal greatest achievement is Lord of The Rings, all three books read in original. Was a rocky way though. Alas, i did it! Was (and continue) playing WoW on english-speaking realms. Never took any language lessons, so speaking english isnt that good, but i can read and understand pretty much everything.
